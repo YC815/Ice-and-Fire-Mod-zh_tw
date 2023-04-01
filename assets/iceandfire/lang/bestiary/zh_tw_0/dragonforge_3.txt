@@ -1,0 +1,48 @@
+這金屬名為龍鋼。龍鋼，乃是人類已
+知的最堅韌、最萬能的金屬材料。它
+能被打造成工具、鎧甲，甚至於龍鎧。
+
+
+
+<item><iceandfire:dragonsteel_fire_sword 0 10 40 1>
+<item><iceandfire:dragonsteel_fire_pickaxe 0 26 40 1>
+<item><iceandfire:dragonsteel_fire_axe 0 42 40 1>
+<item><iceandfire:dragonsteel_fire_shovel 0 58 40 1>
+<item><iceandfire:dragonsteel_fire_hoe 0 74 40 1>
+<item><iceandfire:dragonsteel_fire_helmet 0 20 60 1>
+<item><iceandfire:dragonsteel_fire_chestplate 0 35 60 1>
+<item><iceandfire:dragonsteel_fire_leggings 0 50 60 1>
+<item><iceandfire:dragonsteel_fire_boots 0 65 60 1>
+
+
+
+
+
+
+
+
+請記住，鍛冶龍鋼所需的並非高溫，而
+是龍息中的魔力。這就是說，極寒的龍
+息也能在對應種類的鍛爐中鍛造合金，
+是為龍霜鋼。
+
+<item><iceandfire:dragonforge_ice_brick 0 70 4 1.5>
+<item><iceandfire:dragonforge_ice_input 0 90 4 1.5>
+<item><iceandfire:dragonforge_ice_core 0 110 4 1.5>
+
+
+
+
+
+
+龍炎鋼會讓敵手陷入至多可長達十五秒
+的熊熊烈火中，並將其擊退很遠；龍霜
+鋼所命中的目標則會變成一大坨冰塊。
+兩種龍鋼均極為鋒利，龍鋼劍的鋒刃連
+巨龍都難以抵擋。
+龍鋼製成的鎧甲還能高效地抵御龍息。
+
+
+
+
+

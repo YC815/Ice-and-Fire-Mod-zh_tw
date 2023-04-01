@@ -1,0 +1,54 @@
+    異獸手記的封皮後面粘著一張破
+破爛爛的便箋。上面寫道：
+
+
+<item><iceandfire:manuscript 0 38 20 1>
+
+“謹以此記錄著超自然工具設計和神奇
+生靈追尋指南的手稿，贈予願探索神秘
+奇蹟的有緣人。願它助你一臂之力。”
+
+
+
+
+
+
+    從奇特的礦物開始，異獸手記將指
+引你走近世界上的奇異現象，了解到與
+它們有關的神奇知識。T
+
+
+
+與黃金埋藏在同樣深處的銀礦便是一種
+具有神秘力量的礦物。
+
+<item><iceandfire:silver_ore 0 115 22 1>
+<item><iceandfire:silver_ingot 0 135 22 1>
+<item><iceandfire:silver_nugget 0 155 22 1>
+
+
+
+
+原礦煉成的銀錠有廣泛的應用。
+
+<item><iceandfire:silver_sword 0 104 50 1>
+<item><iceandfire:silver_pickaxe 0 120 50 1>
+<item><iceandfire:silver_axe 0 136 50 1>
+<item><iceandfire:silver_shovel 0 152 50 1>
+<item><iceandfire:silver_hoe 0 168 50 1>
+<item><iceandfire:armor_silver_metal_helmet 0 110 70 1>
+<item><iceandfire:armor_silver_metal_chestplate 0 125 70 1>
+<item><iceandfire:armor_silver_metal_leggings 0 140 70 1>
+<item><iceandfire:armor_silver_metal_boots 0 155 70 1>
+
+
+
+
+
+
+
+
+
+銀質武器上附帶的魔力能更有效地殺傷亡靈。
+
+

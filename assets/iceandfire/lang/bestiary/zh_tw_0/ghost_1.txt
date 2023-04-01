@@ -1,0 +1,45 @@
+<recipe><iceandfire:graveyard_soil 0 minecraft:air 0 iceandfire:ectoplasm 0 minecraft:air 0 iceandfire:ectoplasm 0 minecraft:coarse_dirt 0 iceandfire:ectoplasm 0 minecraft:air 0 iceandfire:ectoplasm 0 minecraft:air 0 5 60 1>
+如若一個人被另一個人戕害，那
+怨念也會在原地生成一個幽靈。
+
+
+
+
+
+
+
+
+
+
+
+
+
+在被打開時，被詛咒的箱子就會
+召喚出幽靈，無論晝夜；而當夜
+幕降臨、四下漆黑，墳土中的幽
+靈就會出來游盪。
+
+
+<item><iceandfire:ghost_ingot 10 110 4 1.25>
+
+
+
+
+
+幽靈還有可能掉落靈錠，這種材
+料可在鍛造台上對龍骨劍進行升
+級，其成品名為幻靈劍。
+
+
+
+<item><iceandfire:ghost_sword 10 110 55 1.25>
+
+
+
+
+
+
+幻靈劍本身的武器性能就非常強
+悍，但它還有更加強大的特殊能
+力：發射能穿透方塊的魂劍攻擊
+敵人。

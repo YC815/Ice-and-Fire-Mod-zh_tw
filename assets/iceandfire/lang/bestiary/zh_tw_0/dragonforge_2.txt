@@ -1,0 +1,43 @@
+<recipe><iceandfire:chain 0 minecraft:air 0 iceandfire:chain_link 0 iceandfire:chain_link 0 minecraft:air 0 iceandfire:chain_link 0 minecraft:air 0 iceandfire:chain_link 0 iceandfire:chain_link 0 minecraft:air 0 4 10 1>
+
+
+
+
+
+
+
+
+堅不可摧的鐵鍊本就是為束縛住各種怪
+物而設計的，拽住野龍自然不在話下。
+但固定住野龍需要把鐵鍊拴在牆上，野
+龍又能摧毀以圓石牆為代表的大多數牆
+類方塊，因此，你需要龍骨牆來保證野
+龍老實工作，而非大搞破壞。
+
+<recipe><iceandfire:dragon_bone_wall 0 minecraft:air 0 minecraft:air 0 minecraft:air 0 iceandfire:dragonbone 0 iceandfire:dragonbone 0 iceandfire:dragonbone 0 iceandfire:dragonbone 0 iceandfire:dragonbone 0 iceandfire:dragonbone 0 25 145 0.75>
+
+
+
+
+
+若要以正確的方式為鍛爐供能，須引導提供
+龍息的龍————馴化或捆縛不限————正對焰
+孔。龍就位後，一見鍛爐內放有物品，就會
+向爐中噴射龍息。
+
+
+
+
+被丟進鍛爐的大部分物品，都會在對應種類
+的龍息中化作灰燼或龍息冰塊。但當鐵錠和
+龍血被一起放進鍛爐時，血與火將會讓凡鐵
+發生質的變化，誕生出極為強大的煉金術合
+金。
+
+
+<item><minecraft:iron_ingot 0 110 78 1>
+<item><iceandfire:fire_dragon_blood 0 130 78 1>
+<item><iceandfire:dragonsteel_fire_ingot 0 170 78 1>
+<item><minecraft:iron_ingot 0 110 92 1>
+<item><iceandfire:ice_dragon_blood 0 130 92 1>
+<item><iceandfire:dragonsteel_ice_ingot 0 170 92 1>

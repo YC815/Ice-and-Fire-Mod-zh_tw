@@ -1,0 +1,50 @@
+在熱帶草原的土壤上，生長著一種數量
+稀少的植物————閃電百合。這種花可以
+用來製成促使電龍繁衍的湯劑，與火龍
+和冰龍的機制幾乎一致。
+
+
+<item><iceandfire:lightning_lily 100 20 40 1>
+<item><iceandfire:lightning_stew 100 60 40 1>
+
+
+
+
+電龍的掉落物包括它們的龍鱗、龍骨、
+顱骨、龍血等，與它們的冰火近親非常
+相似，的用途也與冰火類的大同小異。
+總而言之，任何以冰龍或火龍的龍軀材
+料製成的物品也都可以用電龍的龍軀材
+料製作。
+
+
+
+
+例如：電龍鱗護甲、電龍血瓶、龍霆鋼、
+電龍龍鱗塊，諸如此類。
+
+
+<item><iceandfire:dragonscale_amythest 100 120 40 1>
+<item><iceandfire:armor_amythest_helmet 100 140 30 1>
+<item><iceandfire:dragonsteel_lightning_ingot 100 160 40 1>
+
+<item><iceandfire:dragonforge_lightning_core 100 140 50 1>
+
+<item><iceandfire:summoning_crystal_lightning 100 120 60 1>
+<item><iceandfire:lightning_dragon_blood 100 140 70 1>
+<item><iceandfire:dragonbone_sword_lightning 100 160 60 1>
+
+
+
+
+
+
+
+
+
+
+
+電龍系武器對於火龍和冰龍都有額外傷
+害，攻擊時還會附帶釋放龍霆矢。
+
+

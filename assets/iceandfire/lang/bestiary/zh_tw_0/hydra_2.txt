@@ -1,0 +1,42 @@
+<item><iceandfire:hydra_fang 0 35 4 1.25>
+<item><iceandfire:hydra_heart 0 110 4 1.25>
+
+
+
+九頭蛇毒牙是一種珍貴的材料，能製成附帶毒素
+的特殊箭矢。
+
+
+<recipe><iceandfire:hydra_arrow 0 minecraft:air 0 iceandfire:hydra_fang 0 minecraft:air 0 minecraft:air 0 minecraft:stick 0 minecraft:air 0 minecraft:air 0 minecraft:waterlily 0 minecraft:air 0 0 75 1>
+
+
+
+
+
+
+
+
+這些劇毒的箭矢還附帶著另一種重要的能力：
+在它們射中目標時，會吸取目標的生命值並
+反饋給射手，恢復其生命。
+
+
+
+
+
+
+
+作為一種產量稀少的寶物，九頭蛇心臟因其
+能力而廣受追捧。被放在快捷欄中的九頭蛇
+心臟會依據持有者受到的傷害，為其提供
+一定等級的生命恢復狀態。
+
+
+
+
+這種強健的心臟讓獵殺九頭蛇這種
+艱難的戰鬥變得有利可圖，或許這
+就是為什麼九頭蛇的洞窟裡總是堆
+滿森森白骨吧。
+
+
